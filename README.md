@@ -5,7 +5,7 @@
 ## Resources in use:
 - [Hotel of the Dead](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Hotel-of-the-Dead)
 
-# Screenshots:
+# Actual screenshots:
 ![Screen1](./screens/1.PNG)
 ![Screen2](./screens/2.PNG)
 ![Screen3](./screens/3.PNG)
