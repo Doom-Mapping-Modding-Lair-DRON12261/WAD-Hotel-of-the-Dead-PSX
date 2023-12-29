@@ -1,0 +1,56 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Psx_Doom_MasterEdition.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		defaultfloortexture = "ALLBLAKF";
+		overrideceilheight = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 2;
+				location = "E:\\PSYDOOM\\Tools and Projecs\\PSXDOOM_HOTEL.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		defaulttoptexture = "ALLBLACK";
+		overridemiddletexture = false;
+		viewpositionx = 742.0921f;
+		viewpositiony = 246.4041f;
+		viewscale = 0.8650395f;
+		overridefloortexture = false;
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsety = 0;
+			backoffsetx = 0;
+			backscalex = 100;
+			gridsize = 32f;
+			background = "";
+			backsource = 0;
+			backscaley = 100;
+		}
+		defaultceiltexture = "ALLBLAKF";
+		overridebrightness = false;
+		uselongtexturenames = false;
+		useresourcesinreadonlymode = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overridetoptexture = false;
+		custombrightness = 196;
+		overrideceiltexture = false;
+		defaultwalltexture = "ALLBLACK";
+		defaultbottomtexture = "ALLBLACK";
+	}
+}
