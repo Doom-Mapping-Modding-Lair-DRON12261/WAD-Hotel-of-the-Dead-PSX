@@ -16,7 +16,7 @@ maps
 			resource0
 			{
 				type = 2;
-				location = "E:\\PSYDOOM\\Tools and Projecs\\PSXDOOM_HOTEL.pk3";
+				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\WAD-Hotel-of-the-Dead-PSX\\PSXHotel\\PSXDOOM_HOTEL.pk3";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -25,7 +25,7 @@ maps
 			resource1
 			{
 				type = 2;
-				location = "E:\\PSYDOOM\\Tools and Projecs\\PSXDOOM_OTEX.pk3";
+				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\WAD-Hotel-of-the-Dead-PSX\\PSXHotel\\PSXDOOM_OTEX.pk3";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -33,9 +33,9 @@ maps
 		}
 		defaulttoptexture = "BFALL1";
 		overridemiddletexture = false;
-		viewpositionx = 601.1255f;
-		viewpositiony = 904.905f;
-		viewscale = 0.1060426f;
+		viewpositionx = 578.8919f;
+		viewpositiony = 1811.108f;
+		viewscale = 11.03305f;
 		overridefloortexture = false;
 		customceilheight = 128;
 		customfloorheight = 0;
@@ -45,7 +45,7 @@ maps
 			backoffsety = 0;
 			backoffsetx = 0;
 			backscalex = 100;
-			gridsize = 256f;
+			gridsize = 4f;
 			background = "";
 			backsource = 0;
 			backscaley = 100;
