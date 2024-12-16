@@ -1,6 +1,6 @@
 # Hotel of the Dead PSX [1 Level, PsyDoom, Final Doom]
 
-# STATUS: 🏁WORK IN PROGRESS
+# STATUS: 🧊FROZEN
 
 ## Resources in use:
 - [Hotel of the Dead](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Hotel-of-the-Dead)
